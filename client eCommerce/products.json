@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "1-Tshirt",
+          "price": 200,
+          "image": { "fields": { "file": { "url": "./images/pic01.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "2-Tshirt",
+          "price": 180,
+          "image": { "fields": { "file": { "url": "./images/pic02.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "3-Tshirt",
+          "price": 210,
+          "image": { "fields": { "file": { "url": "./images/pic03.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "4-Tshirt",
+          "price": 165,
+          "image": { "fields": { "file": { "url":"./images/pic04.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "5-Tshirt",
+          "price": 190,
+          "image": { "fields": { "file": { "url": "./images/pic05.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "6-Tshirt",
+          "price": 215,
+          "image": { "fields": { "file": { "url": "./images/pic06.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "7-Tshirt",
+          "price": 240,
+          "image": { "fields": { "file": { "url": "./images/pic07.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "8-Tshirt",
+          "price": 225,
+          "image": { "fields": { "file": { "url": "./images/pic08.jpg" } } }
+        }
+      }
+    ]
+  }
